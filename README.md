@@ -9,3 +9,7 @@ C, Python, Java, SQL, HTML, CSS, and Git.
 ## Areas of Interest
 
 Artificial Intelligence, Machine Learning, Data Science, Web Development.
+
+## Projects
+
+I have worked on projects involving spam detection, smart irrigation, web development, and programming applications.
