@@ -5,3 +5,7 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Science, 
 ## Technical Skills
 
 C, Python, Java, SQL, HTML, CSS, and Git.
+
+## Areas of Interest
+
+Artificial Intelligence, Machine Learning, Data Science, Web Development.
